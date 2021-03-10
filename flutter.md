@@ -55,8 +55,6 @@ echo $PATH
 which flutter
 ```
 
-之后，应该可以正常[Setting up Flutter][export PUB_HOSTED_URL=https://pub.flutter-io.cn export FLUTTER_STORAGE_BASE_URL=https://storage.flutter-io.cn git clone -b dev https://github.com/flutter/flutter.git export PATH="$PWD/flutter/bin:$PATH" cd ./flutter flutter doctor]
-
 ### Set up
 
 ##### 安装Android Studio
