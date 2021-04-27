@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tab Experiment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="frag1">These are top stories: </string>
+    <string name="frag2">Tech news you can use: </string>
+    <string name="frag3">Cooking tips: </string>
+
+    <string name="tab_label1">Top stories</string>
+    <string name="tab_label2">Tech News</string>
+    <string name="tab_label3">Cooking</string>
+</resources>
