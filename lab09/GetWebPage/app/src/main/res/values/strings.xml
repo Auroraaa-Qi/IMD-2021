@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GetWebPage</string>
+    <string name="instructions">Enter URL: </string>
+    <string name="input_hint">www.example.com</string>
+    <string name="button_text">GET PAGE SOURCE</string>
+    <string name="scroll_hint">Page source will appear here.</string>
+
+    <string-array name="protocols">
+        <item>http://</item>
+        <item>https://</item>
+    </string-array>
+</resources>
